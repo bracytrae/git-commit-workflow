@@ -1,10 +1,12 @@
 # My Project
 
-This is a simple HTML and CSS project that I connected to GitHub.
+This is a simple HTML & CSS project I pushed and connected to GitHub.
 
 ## What I practiced
 
-- HTML structure
-- CSS styling
-- Git commands
-- Connecting a local project to GitHub
+- Creating a repository locally 
+- Connecting a local respository to Github
+- Renaming branche's 
+- Staging and committing changes made to file's 
+- Checking the status of file's 
+- Pushing code stored locally to Github 
