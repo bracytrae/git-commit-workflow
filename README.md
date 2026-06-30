@@ -1,8 +1,8 @@
-# My Project
+# my project
 
 covers the basics of the git-commit workflow 
 
-## What I practiced
+## what I practiced
 
 - Creating a repository locally 
 - Connecting a local repository to GitHub
@@ -12,7 +12,7 @@ covers the basics of the git-commit workflow
 - Staging and committing changes made to the file's 
 - Pushing code stored locally to GitHub
 
-## Commands I Practiced
+## cmd's used
 
 ```bash
 git init
