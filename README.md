@@ -1,6 +1,6 @@
 # My Project
 
-Simple repo I pushed to github that covers the basics of the git-commit workflow whilst working w/ your code & terminal. 
+Simple repo I pushed to github that covers the basics of the git-commit workflow whilst working w/ your code via an IDE & terminal. 
 
 ## What I practiced
 
