@@ -1,4 +1,4 @@
-## cmd's utilized 
+## cmds utilized 
 
 ```bash
 git init
