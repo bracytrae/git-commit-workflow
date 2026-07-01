@@ -21,5 +21,5 @@ git branch -M main
 git status
 git add .
 git commit -m "commit message" | **commit** - a saved change. 
-git push | **push** - change pushed to remote repository. 
+git push | **push** - a change that's updated to a remote repository. 
 ```
